@@ -17,15 +17,15 @@
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
+---
+
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 <p align="left">
 <a href="https://linkedin.com/in/ali-moustafa2000"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a> <a href="https://twitter.com/ali_moustafa200"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
 <a href="https://instagram.com/ali.moustafa_2000"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.behance.net/alimoustafa2000"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/AliMoustafa_2000"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>    
-    
-
-    
+      
   ---
     
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
