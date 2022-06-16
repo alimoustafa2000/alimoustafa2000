@@ -35,3 +35,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alimoustafa2000&show_icons=true&theme=tokyonight&locale=en" alt="alimoustafa2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimoustafa2000&" alt="alimoustafa2000" /></p>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alimoustafa2000&label=Profile%20views&color=0e75b6&style=flat" alt="alimoustafa2000" /> </p>
+
