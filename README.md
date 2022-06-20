@@ -38,5 +38,5 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alimoustafa2000&label=Profile%20views&color=0e75b6&style=flat" alt="alimoustafa2000" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alimoustafa2000&label=Profile%20views&color=0e75b6&style=flat" alt="alimoustafa2000" /> </p>
 
