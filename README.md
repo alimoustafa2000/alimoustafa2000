@@ -6,18 +6,21 @@
 
 
 ##### 💪 Programming Languages
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+
 
 ##### 💪 Tools
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
 <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+
 
 ##### 💪 Collaboration
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
----
+<hr>
 
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 <p align="left">
@@ -26,17 +29,17 @@
 <a href="https://www.behance.net/alimoustafa2000"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/AliMoustafa_2000"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>    
       
-  ---
+<hr>
     
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimoustafa2000&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="alimoustafa2000" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimoustafa2000&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="alimoustafa2000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alimoustafa2000&show_icons=true&theme=tokyonight&locale=en" alt="alimoustafa2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimoustafa2000&" alt="alimoustafa2000" /></p>
 
----
+<hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alimoustafa2000&label=Profile%20views&color=0e75b6&style=flat" alt="alimoustafa2000" /> </p>
 
