@@ -40,7 +40,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimoustafa2000&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="alimoustafa2000" />
 </p>
 
-</p>
 <p align="center">
 <a href="https://github.com/alimoustafa2000">
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alimoustafa2000&theme=gruvbox&layout=compact&hide_border=true"
@@ -58,9 +57,8 @@ alt="alimoustafa2000 :: Top Langs by commit" />
 </p>
 
 
-
-
 <hr>
+
 
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 
