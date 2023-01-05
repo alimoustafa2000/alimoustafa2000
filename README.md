@@ -52,15 +52,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimoustafa2000&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="alimoustafa2000" />
 </p>
 
-<p align="center">
-<a href="https://github.com/alimoustafa2000">
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alimoustafa2000&theme=gruvbox&layout=compact&hide_border=true"
-alt="alimoustafa2000 :: Top Langs by repo" />
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alimoustafa2000&theme=gruvbox&layout=compact&hide_border=true"
-alt="alimoustafa2000 :: Top Langs by commit" />
-</a>
-</p>
-
 <p align="center">      
 <a href="https://github.com/alimoustafa2000">
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alimoustafa2000&show_icons=true&theme=gruvbox&hide_border=true" />
